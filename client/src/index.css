@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.BE {
+  backdrop-filter: blur(20px);
+}
+
+.WBE {
+  backdrop-filter: blur(7px);
+}
+
+.textStroke {
+  -webkit-text-stroke: 2px black;
+}
